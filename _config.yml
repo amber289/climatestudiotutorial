@@ -10,6 +10,7 @@ html:
 
 repository:
   url: https://github.com/amber289/climatestudiotutorial
+  path_to_book: workshops
   branch: main
 
 execute:
