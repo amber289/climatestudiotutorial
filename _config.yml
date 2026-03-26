@@ -6,6 +6,9 @@ only_build_toc_files: true
 exclude_patterns:
   - workshops/downloads/**
   - workshops/static/**
+  - README.md
+  - LICENSE
+  - .gitignore
 
 html:
   use_issues_button: true
