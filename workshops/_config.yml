@@ -3,6 +3,10 @@ author: "amber sun"
 
 only_build_toc_files: true
 
+exclude_patterns:
+  - downloads/**
+  - static/**
+
 html:
   use_issues_button: true
   use_repository_button: true
