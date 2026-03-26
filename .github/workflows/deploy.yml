@@ -29,7 +29,10 @@ jobs:
           python-version: '3.11'
 
       - name: Install Jupyter Book
-        run: pip install jupyter-book
+        run: pip install jupyter-book==0.15.1
+
+      - name: List files for debugging
+        run: ls -la && cat _config.yml && cat _toc.yml
 
       - name: Build the book
         run: jupyter-book build .
