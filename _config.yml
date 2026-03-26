@@ -1,0 +1,16 @@
+title: "Climate Studio Workshops"
+author: "amber sun"
+
+only_build_toc_files: true
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+  home_page_in_navbar: false
+
+repository:
+  url: https://github.com/amber289/climatestudiotutorial
+  branch: main
+
+execute:
+  execute_notebooks: "off"
