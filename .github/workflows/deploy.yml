@@ -32,7 +32,7 @@ jobs:
         run: pip install jupyter-book
 
       - name: Build the book
-        run: jupyter-book build workshops
+        run: jupyter-book build workshops --config workshops/_config.yml --toc workshops/_toc.yml
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
