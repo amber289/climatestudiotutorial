@@ -4,7 +4,6 @@
 1. Go to <a href="https://climate.onebuilding.org/" target="_blank">climate.onebuilding.org</a>. Go to North-Central America-Region 4 -> North America USA - United States of America.
 ```{image} ../static/clima1/clima1_1.png
 :width: 75%
-:height: 75%
 :align: center
 ```
 <br/><br/>
@@ -24,7 +23,7 @@
 - .rain: precipation data in m/hr if available
 - .stat: energyplus weather statistics
 ```{image} ../static/clima1/clima1_3.png
-:width: 100%
+:width: 85%
 :align: center
 ```
 <br/><br/>
