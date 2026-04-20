@@ -11,6 +11,6 @@ Weather data is most commonly stored in .epw files. You can get .epw files from 
 
 1. <a href="https://climate.onebuilding.org/" target="_blank">climate.onebuilding.org</a>: more recent weather files.
 2. <a href="https://energyplus.net/weather" target="_blank">Energyplus website</a> : hosted by the energyplus software website.
-3. <a href="https://www.ladybug.tools/epwmap/" target="_blank">ladybug epw map</a> : created by Ladybug Tools.
+3. <a href="https://www.ladybug.tools/epwmap/" target="_blank">ladybug epw map</a> : created by Ladybug Tools, integratable in Grasshopper extension of Rhino.
 
 In this tutorial, we will use the weather files from climate.onebuilding.org as they are more up to date.
