@@ -7,7 +7,7 @@ The weather data provides important information about the temperature, humidity,
 In this module, we will learn where to find weather files and how to import them into ClimateStudio to visualize key aspects of climate that inform design choices.
 
 ## Where can I find weather files?
-Weather data is most commonly stored in .epw files. There are other formats such as .wea for daylight simulation by Daysim. You can get .epw files from these two main websites:
+Weather data is most commonly stored in .epw files. You can get .epw files from three main websites:
 
 1. <a href="https://climate.onebuilding.org/" target="_blank">climate.onebuilding.org</a>: more recent weather files.
 2. <a href="https://energyplus.net/weather" target="_blank">Energyplus website</a> : hosted by the energyplus software website.
