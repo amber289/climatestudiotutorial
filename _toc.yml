@@ -7,7 +7,7 @@ parts:
     chapters:
     - file: workshops/docs/01_module-one
       sections:
-      - file: workshops/docs/01_1_mod1_part1
+      - file: workshops/docs/01_1_climate_p1
       - file: workshops/docs/01_2_mod1_part2
     - file: workshops/docs/02_module-two
       sections:
