@@ -4,7 +4,6 @@
 1. Go to <a href="https://climate.onebuilding.org/" target="_blank">climate.onebuilding.org</a>. Go to North-Central America-Region 4 -> North America USA - United States of America.
 ```{image} ../static/clima1/clima1_1.png
 :width: 75%
-:height: 75%
 :align: center
 ```
 <br/><br/>
@@ -24,7 +23,22 @@
 - .rain: precipation data in m/hr if available
 - .stat: energyplus weather statistics
 ```{image} ../static/clima1/clima1_3.png
-:width: 100%
+:width: 85%
+:align: center
+```
+<br/><br/>
+
+## Load weather file in CBE Clima Tool
+1. Now we will go to the <a href="https://clima.cbe.berkeley.edu/" target="_blank">CBE Clima Tool</a>. At the page, click on 'Drag and Drop or Select an EPW file from your computer' and select the New York Manhattan file .epw file we downloaded.
+```{image} ../static/clima1/clima1_4.png
+:width: 75%
+:align: center
+```
+<br/><br/>
+
+2. It will load the weather file as shown below.
+```{image} ../static/clima1/clima1_5.png
+:width: 75%
 :align: center
 ```
 <br/><br/>
