@@ -28,3 +28,18 @@
 ```
 <br/><br/>
 
+## Load weather file in CBE Clima Tool
+1. Now we will go to the <a href="https://clima.cbe.berkeley.edu/" target="_blank">CBE Clima Tool</a>. At the page, click on 'Drag and Drop or Select an EPW file from your computer' and select the New York Manhattan file .epw file we downloaded.
+```{image} ../static/clima1/clima1_4.png
+:width: 75%
+:align: center
+```
+<br/><br/>
+
+2. It will load the weather file as shown below.
+```{image} ../static/clima1/clima1_5.png
+:width: 75%
+:align: center
+```
+<br/><br/>
+
