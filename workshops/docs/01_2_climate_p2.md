@@ -1,4 +1,3 @@
-# Part 2: Deep Dive
+# Part 2: ClimateStudio Weather Analysis
 
-## Overview
-Your content here.
+## Importing Model into ClimateStudio
