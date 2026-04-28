@@ -8,7 +8,7 @@ parts:
     - file: workshops/docs/01_module-one
       sections:
       - file: workshops/docs/01_1_climate_p1
-      - file: workshops/docs/01_2_mod1_part2
+      - file: workshops/docs/01_2_climate_p2
     - file: workshops/docs/02_module-two
       sections:
       - file: workshops/docs/02_1_mod2_part1

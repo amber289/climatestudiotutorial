@@ -4,7 +4,7 @@ The foundation of sustainable and environmental-driven design starts with a comp
 
 The weather data provides important information about the temperature, humidity, cloud coverage, etc... of a location, solar radiation, which are helpful for knowing the microclimates of your site.
 
-In this module, we will learn where to find weather files and how to import them into ClimateStudio to visualize key aspects of climate that inform design choices.
+In this module, we will learn where to find weather files and visualize key aspects of climate that inform design choices using CBE Clima Tool and ClimateStudio.
 
 ## Where can I find weather files?
 Weather data is most commonly stored in .epw files. You can get .epw files from three main websites:
