@@ -40,7 +40,7 @@ Choose the weather file and open it.
 ```
 <br/><br/>
 
-It should update and reflect in where the red box is. Check the "show compass" box to see the north arrow appear on the bottom right corner of your Rhino viewport. It is critical that you ensure the north arrow is aligned as you intended because ClimateStudio automatically sets the sun path north based on your Rhino model. By default, the software assumes your project's North is aligned with the positive y-axis. You can fix the orientation by moving the slider of the North Offset or typing in the offset rotation angle in degrees.
+6. It should update and reflect in where the red box is. Check the "show compass" box to see the north arrow appear on the bottom right corner of your Rhino viewport. It is critical that you ensure the north arrow is aligned as you intended because ClimateStudio automatically sets the sun path north based on your Rhino model. By default, the software assumes your project's North is aligned with the positive y-axis. You can fix the orientation by moving the slider of the North Offset or typing in the offset rotation angle in degrees.
 
 ```{image} ../static/clima2/clima2_5.png
 :width: 90%
