@@ -1,4 +1,4 @@
-# Part 2: ClimateStudio Weather Analysis
+# Climate Analysis Part 2: Climate Analysis with ClimateStudio
 
 ## Importing Model into ClimateStudio
 1. Download this small house model here: <a href="https://github.com/amber289/climatestudiotutorial/blob/main/workshops/downloads/singlefamilyhouse.3dm" target="_blank">here</a>
