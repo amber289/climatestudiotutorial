@@ -58,14 +58,27 @@ Note the summarized information that the location subpanel gives you about the w
 ```
 <br/><br/>
 
-8. Set the point cursor to the midpoint of the cross construction line
+8. Set the point cursor to the midpoint of the cross construction line and click. You will see the center of the 3D sun path be relocated to that point.
 ```{image} ../static/clima2/clima2_6.2.png
 :width: 90%
 :align: center
 ```
 <br/><br/>
 
+9. Check the Shadows box to enter a display mode that casts direct shadows from the sun's position.
+```{image} ../static/clima2/clima2_7.4.png
+:width: 90%
+:align: center
+```
+<br/><br/>
 
+10. Use the date and time dropdown settings to control the sun's arc and position along the path. We mostly only care about the summer (June 21) and winter (Dec 21) solstices because those provide information about the extreme scenarios. To evaluate on a specific day or time, move the slider position using left or right arrow keys. Try comparing the sun path on the two solstices.
+    
+```{image} ../static/clima2/clima2_7.7.png
+:width: 90%
+:align: center
+```
+<br/><br/>
 
 
 
