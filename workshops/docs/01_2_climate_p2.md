@@ -58,6 +58,13 @@ Note the summarized information that the location subpanel gives you about the w
 ```
 <br/><br/>
 
+8. Set the point cursor to the midpoint of the cross construction line
+```{image} ../static/clima2/clima2_6.2.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+
 
 
 
