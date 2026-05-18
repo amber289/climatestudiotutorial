@@ -80,6 +80,20 @@ Note the summarized information that the location subpanel gives you about the w
 ```
 <br/><br/>
 
+11. You will notice that during the summer solstice scenario, the sun travels along the longest arc of the sun path and reaches it highest altitude. The building will recieve the maximum daylight, but will be at the highest risk of overheating and glare, especially on the south side. In the winter solstice, the sun is at its shortest arc and lowest, offering the least natural light and solar heat. This demands the most out of passive solar heating, which is a building technique that uses a building's architecture and material to provide warmth without the need of mechanical devices.
+
+```{image} ../static/clima2/clima2_7.5.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+
+```{image} ../static/clima2/clima2_8.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+
 
 
 
