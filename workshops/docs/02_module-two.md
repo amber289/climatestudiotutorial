@@ -1,6 +1,3 @@
-# Module Two: Building Science Term
+# Point-In-Time Illuminance
 
-Overview of what this module covers.
-
-- Part 1: ...
-- Part 2: ...
+This module covers the workflow for conducting point-in-time illuminance simulations. It introduces key concepts relating to light and materiality.
