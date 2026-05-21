@@ -94,7 +94,10 @@ Note the summarized information that the location subpanel gives you about the w
 ```
 <br/><br/>
 
-## 
+Here is an gif file of the summer solstice
+![Summer Solstice](../static/clima2/clima2_7.3.gif)
+
+## Wind Rose
 
 
 
