@@ -50,7 +50,7 @@ Note the summarized information that the location subpanel gives you about the w
 ```
 <br/><br/>
 
-## Visualizing Sun Path in ClimateStudio
+## Visualizing Sun Path
 7. In the site analysis subpanel, navigate to the sunpath tab. Check the box for "3d Sun Path" and then click "set position" to set where the reference point of the sun path is.
 ```{image} ../static/clima2/clima2_6.1.png
 :width: 90%
@@ -94,10 +94,28 @@ Note the summarized information that the location subpanel gives you about the w
 ```
 <br/><br/>
 
-Here is an gif file of the summer solstice
+Summer Solstice Sun Path (GIF)
 ![Summer Solstice](../static/clima2/clima2_7.3.gif)
 
+<br/><br/>
+
+Winter Solstice Sun Path (GIF)
+![Winter Solstice](../static/clima2/clima2_9.gif)
+
 ## Wind Rose
+12. In the site analysis subpanel, navigate to the wind rose tab. Check the box for "Show 3D Wind Rose" and then similar to the sun path, click "Set Position" to set the reference point of where the wind rose originates. 
+```{image} ../static/clima2/clima2_10.2.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+
+13. You will see a polar graph imposed over your house model.
+```{image} ../static/clima2/clima2_11.2.png
+:width: 90%
+:align: center
+```
+<br/><br/>
 
 
 
