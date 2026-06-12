@@ -97,10 +97,25 @@ Note the summarized information that the location subpanel gives you about the w
 Summer Solstice Sun Path (GIF)
 ![Summer Solstice](../static/clima2/clima2_7.3.gif)
 
+<br/><br/>
+
 Winter Solstice Sun Path (GIF)
 ![Winter Solstice](../static/clima2/clima2_9.gif)
 
 ## Wind Rose
+12. In the site analysis subpanel, navigate to the wind rose tab. Check the box for "Show 3D Wind Rose" and then similar to the sun path, click "Set Position" to set the reference point of where the wind rose originates. 
+```{image} ../static/clima2/clima2_10.2.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+
+13. You will see a polar graph imposed over your house model.
+```{image} ../static/clima2/clima2_11.2.png
+:width: 90%
+:align: center
+```
+<br/><br/>
 
 
 
