@@ -3,7 +3,7 @@
 ## Importing Model into ClimateStudio
 1. Download this small house model here: <a href="https://github.com/amber289/climatestudiotutorial/blob/main/workshops/downloads/singlefamilyhouse.3dm" target="_blank">here</a>
 
-2. This is a representation of single-family residential house. Open this in Rhino7. Make sure z axis is up.
+2. This is a representation of single-family residential house. Open this in Rhino 7. Make sure z axis is up.
 ```{image} ../static/clima2/clima2_1.png
 :width: 90%
 :align: center
@@ -40,7 +40,7 @@ Choose the weather file and open it.
 ```
 <br/><br/>
 
-6. It should update and reflect in where the red box is. Check the "show compass" box to see the north arrow appear on the bottom right corner of your Rhino viewport. It is critical that you ensure the north arrow is aligned as you intended because ClimateStudio automatically sets the sun path north based on your Rhino model. By default, the software assumes your project's North is aligned with the positive y-axis. You can fix the orientation by moving the slider of the North Offset or typing in the offset rotation angle in degrees.
+6. It should update and reflect in where the red box is. Check the "show compass" box to see the north arrow appear on the bottom right corner of your Rhino viewport. It is **critical** that you ensure the north arrow is aligned as you intended because ClimateStudio automatically sets the sun path north based on your Rhino model. By default, the software assumes your project's North is aligned with the positive y-axis. You can fix the orientation by moving the slider of the North Offset or typing in the offset rotation angle in degrees.
 
 Note the summarized information that the location subpanel gives you about the weather such as the climate zone and heating & cooling load conditions.
 
@@ -72,7 +72,7 @@ Note the summarized information that the location subpanel gives you about the w
 ```
 <br/><br/>
 
-10. Use the date and time dropdown settings to control the sun's arc and position along the path. We mostly only care about the summer (June 21) and winter (Dec 21) solstices because those provide information about the extreme scenarios. To evaluate on a specific day or time, move the slider position using left or right arrow keys. Try comparing the sun path on the two solstices.
+10. Use the date and time dropdown settings to control the sun's arc and position along the path. We mostly only care about the summer (June 21) and winter (Dec 21) solstices because those provide valuable information about the two extreme scenarios. To evaluate on a specific day or time, move the slider position using left or right arrow keys. Try comparing the sun path on the two solstices.
     
 ```{image} ../static/clima2/clima2_7.7.png
 :width: 90%
@@ -123,5 +123,14 @@ Winter Solstice Sun Path (GIF)
 :align: center
 ```
 <br/><br/>
+
+## Diurnal Averages
+15. The Diurnal Averages tab shows the monthly averages of temperature and radiation across 24 hours of a day. It summarizes what a "typical" day during the month looks like. You can hover over specific points of the plot to get precise values for the Global Horizontal Radiation, Diffuse Horizontal Radiation, Direct Normal Radiation, Wet Bulb Temperature, and Dry Bulb Temperature. To hide or show any of the aforementioned 6 data series, click on each of the colors of the legend bar (top right on the graph).
+```{image} ../static/clima2/clima2_13.4.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+
 
 
