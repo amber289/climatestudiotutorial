@@ -110,14 +110,18 @@ Winter Solstice Sun Path (GIF)
 ```
 <br/><br/>
 
-13. You will see a polar graph imposed over your house model.
-```{image} ../static/clima2/clima2_11.2.png
+13. You will see a polar graph imposed over your house model that plots the frequency of the wind by speed and direction. The displayed 3D wind rose can be modified to reflect certain climate conditions by filtering the data based on time of year, hours of day, wind speed, relative humidity (% RH), and dry bulb temperature. The legend at the bottom right of the viewport breaks down the speed ranges into different breeze categories (light, gentle, moderate, strong...etc). You can obtain more specific information about the wind conditions by hovering over the 2D wind rose.
+```{image} ../static/clima2/clima2_11.4.png
 :width: 90%
 :align: center
 ```
 <br/><br/>
 
-
-
+14. For example, we can isolate afternoon summertime conditions in which light to moderate breezes are desirable for natural cooling and thermal comfort. We can use the ASHRAE Adaptive Comfort 80% comfort band temperatures of 17-24 C and humidity comfort band 30-70% to filter the conditions. For the New York weather file, these winds are predominantly coming from the Northeast.
+```{image} ../static/clima2/clima2_12.4.png
+:width: 90%
+:align: center
+```
+<br/><br/>
 
 
