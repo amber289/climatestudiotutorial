@@ -132,7 +132,8 @@ Winter Solstice Sun Path (GIF)
 ```
 <br/><br/>
 
-16. The Pyschrometric Chart tab presents a graphical representation of the air conditions. Move the sliders seen in (a) for day of year and time of day to isolate a specific time frame of a year. In (b) you can see the the represented time period, applicable number of hours out of the year (8760 total), and in (c) is the color legend indicating the frequency (in hours) of a weather condition based on temperature and humidity.
+## Pyschrometric Chart
+16. The Pyschrometric Chart tab presents a graphical representation of the air conditions. Move the sliders seen in (a) for day of year and time of day to isolate a specific time frame of a year. In (b) you can see the the represented time period, applicable number of hours out of the year (8760 total), and in (c) is the color legend indicating the frequency (in hours) of a weather condition based on temperature and humidity. Hover over the pyschrometric grid as shown in (d) to view details. In this case, for 57 out of the 8760 hours in a year, the air has a dry bulb temperature of 15-16 C and specific humidity HR range of 7-8 g/kg. This is not a frequent weather condition given this only occurs 0.65% of the time. 
 ```{image} ../static/clima2/clima2_15.3.png
 :width: 90%
 :align: center
@@ -144,5 +145,8 @@ Try isolating for the same summertime afternoon conditions in Step 14. Compare t
 :align: center
 ```
 <br/><br/>
+
+## Hourly Heatmap
+
 
 
