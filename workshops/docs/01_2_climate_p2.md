@@ -132,5 +132,17 @@ Winter Solstice Sun Path (GIF)
 ```
 <br/><br/>
 
+16. The Pyschrometric Chart tab presents a graphical representation of the air conditions. Move the sliders seen in (a) for day of year and time of day to isolate a specific time frame of a year. In (b) you can see the the represented time period, applicable number of hours out of the year (8760 total), and in (c) is the color legend indicating the frequency (in hours) of a weather condition based on temperature and humidity.
+```{image} ../static/clima2/clima2_15.3.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+Try isolating for the same summertime afternoon conditions in Step 14. Compare the number of applicable hours and which weather condition is most frequent. 
+```{image} ../static/clima2/clima2_15.4.png
+:width: 90%
+:align: center
+```
+<br/><br/>
 
 
