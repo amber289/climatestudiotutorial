@@ -139,7 +139,7 @@ Winter Solstice Sun Path (GIF)
 :align: center
 ```
 <br/><br/>
-Try isolating for the same summertime afternoon conditions in Step 14. Compare the number of applicable hours and which weather condition is most frequent. 
+Try isolating for the same summertime afternoon conditions in Step 14. Note the number of applicable hours and which weather condition is most frequent. 
 ```{image} ../static/clima2/clima2_15.4.png
 :width: 90%
 :align: center
@@ -147,6 +147,10 @@ Try isolating for the same summertime afternoon conditions in Step 14. Compare t
 <br/><br/>
 
 ## Hourly Heatmap
-
-
+17. The Hourly Heatmap is a grid of 8760 to represent all the hours of a year....smtg
+```{image} ../static/clima2/clima2_16.10.png
+:width: 90%
+:align: center
+```
+<br/><br/>
 
