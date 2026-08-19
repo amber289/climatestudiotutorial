@@ -148,9 +148,50 @@ Try isolating for the same summertime afternoon conditions in Step 14. Note the 
 
 ## Hourly Heatmap
 17. The Hourly Heatmap is a grid of 8760 cells to represent every hour of the year. Along the y-axis are plotted the hours of the day and along the x-axis are days of the year. Hovering over a cell gives you information about the typical dry bulb temperature on that time and day of the year. Moving the sliders allow you filter and isolate for a specific time period and weather condition (wind speed, relative humidity, dry bulb temperature). 
-```{image} ../static/clima2/clima2_16.1.png
+```{image} ../static/clima2/clima2_16.13.png
 :width: 90%
 :align: center
 ```
 <br/><br/>
+
+18. Another common practice with interpreting heatmaps is by using UTCI (Universal Thermal Climate Index) which is an international standard measuring how much outdoor thermal conditions affects the human body. This Celsius equivalent temperature factors in climatic conditions that contribute to heat stress such as air temperature, humidity, wind speed, and radiation. Use the dropdown menu to switch from dry bulb temperature to UTCI. Check the box to use UTCI measurements instead of Dry Bulb Temperature for the slider.
+
+```{image} ../static/clima2/clima2_16.14.png
+:width: 90%
+:align: center
+```
+<br/><br/>
+
+19. In the UTCI metric, you can enable and disable filters for wind protection and sun shade, removing the impact of wind and solar radiation. Using the same conditions as before: June 21-Sept 22, 12-18:00, 1-6 m/s, 30-70% RH, 17-24C (before UTCI), run through the following 4 different scenarios to compare the effects: (a) no shade & no wind protection, (b) only shade, (c) only wind protection, (d) shade & wind protection.
+
+(a) With no shade and no wind protection:
+```{image} ../static/clima2/clima2_16.15.png
+:width: 90%
+:align: center
+```
+(b) With shade and no wind protection:
+```{image} ../static/clima2/clima2_16.16.png
+:width: 90%
+:align: center
+```
+
+(c) With wind protection and no shade:
+```{image} ../static/clima2/clima2_16.17.png
+:width: 90%
+:align: center
+```
+
+(d) With shade and wind protection:
+```{image} ../static/clima2/clima2_16.18.png
+:width: 90%
+:align: center
+```
+With measurable differences in the maximum temperature, the four scenarios illustrate the importance of sun shade to block extreme solar radiation and no wind protection to allow breezes to provide a natural cooling in times of heat stress. Take scenario (c) where the environment was wind protected and not shaded. On June 29 @ 12:30 PM, the peak temperature was 39.6 C. There was no natural breeze because of wind protection and no shade, making this scenario the most dangerous for a human body to be in. However in scenario (a), at least with the removal of wind protection, the UTCI went down 1 degree to 38.4 C. Still not an ideal situation for anyone to find themselves in, but with shade added like in scenario (b), the combination of breeze and protection from solar radiation decreases the thermal environment extremity down to 36.1 C. 
+<br/><br/>
+
+
+This module easily demonstrates that when designing outdoor spaces or buildings in hot climates, it is critical to understand wind conditions and solar paths such to capitalize on natural breezes and strategic shading to significantly reduce local temperatures and maintain comfortable environmental conditions. 
+
+
+
 
