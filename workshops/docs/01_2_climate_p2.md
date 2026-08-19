@@ -147,8 +147,8 @@ Try isolating for the same summertime afternoon conditions in Step 14. Note the 
 <br/><br/>
 
 ## Hourly Heatmap
-17. The Hourly Heatmap is a grid of 8760 to represent all the hours of a year....smtg
-```{image} ../static/clima2/clima2_16.10.png
+17. The Hourly Heatmap is a grid of 8760 cells to represent every hour of the year. Along the y-axis are plotted the hours of the day and along the x-axis are days of the year. Hovering over a cell gives you information about the typical dry bulb temperature on that time and day of the year. Moving the sliders allow you filter and isolate for a specific time period and weather condition (wind speed, relative humidity, dry bulb temperature). 
+```{image} ../static/clima2/clima2_16.1.png
 :width: 90%
 :align: center
 ```
